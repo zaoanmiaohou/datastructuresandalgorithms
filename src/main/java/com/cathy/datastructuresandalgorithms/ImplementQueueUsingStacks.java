@@ -1,4 +1,4 @@
-package com.cathy.alg;
+package com.cathy.datastructuresandalgorithms;
 
 import java.util.Stack;
 
